@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : Undeviating 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20140322
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900|Quicksand:400,700|Questrial" rel="stylesheet" />
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="engine1//style.css" media="screen" />
+	<script type="text/javascript" src="engine1//jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+</head>
+
+
+
+<body>
+
+
+<div id="header-wrapper">
+	<div id="header" class="container">
+    
+    
+		<div id="logo">
+        	<span class="icon icon-cog"></span>
+			
+		</div>
+		<div id="menu">
+			<ul>
+				<li class="active"><a href="#" accesskey="1" title="">Homepage</a></li>
+				<li><a href="#" accesskey="2" title="">About us</a></li>
+				<li><a href="#" accesskey="3" title="">Roster</a></li>
+				<li><a href="#" accesskey="4" title="">Gallery</a></li>
+				
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="wrapper">
+	
+
+<!-- Start WOWSlider.com BODY section id=wowslider-container1 -->
+	<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+<li><img src="data1/images/10312030_1428018244134368_7072564792416706916_n.jpg" alt="10312030_1428018244134368_7072564792416706916_n"  id="wows1_0"/></li>
+<li><img src="data1/images/10414571_1428018464134346_5979937481648961255_n_1.jpg" alt="10414571_1428018464134346_5979937481648961255_n (1)" id="wows1_1"/></li>
+<li><img src="data1/images/10329261_1428018734134319_1275122534484122522_n.jpg" alt="10329261_1428018734134319_1275122534484122522_n"  id="wows1_2"/></li>
+<li><img src="data1/images/10343504_1428018934134299_294271229657006431_n.jpg" alt="10343504_1428018934134299_294271229657006431_n"  id="wows1_3"/></li>
+<li><img src="data1/images/10361339_1428019097467616_9217129477082069859_n.jpg" alt="10361339_1428019097467616_9217129477082069859_n"  id="wows1_4"/></li>
+<li><img src="data1/images/10390036_1428018620800997_5111436226373974643_n.jpg" alt="10390036_1428018620800997_5111436226373974643_n"  id="wows1_5"/></li>
+<li><img src="data1/images/10403456_1428033850799474_5987635454624490767_n.jpg" alt="10403456_1428033850799474_5987635454624490767_n"  id="wows1_6"/></li>
+<li><img src="data1/images/10409736_1428019814134211_1745799076015558507_n.jpg" alt="10409736_1428019814134211_1745799076015558507_n"  id="wows1_7"/></li>
+</ul></div>
+<div class="ws_bullets"><div>
+
+</div></div><span class="wsl"><a href="http://wowslider.com/vs">jquery slideshow</a> by WOWSlider.com v5.6</span>
+	<a href="#" class="ws_frame"></a>
+	<div class="ws_shadow"></div>
+	</div>
+	<script type="text/javascript" src="engine1//wowslider.js"></script>
+	<script type="text/javascript" src="engine1//script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+
+<div id="banner" class="container">
+   
+
+</div>
+
+
+	<div id="welcome" class="container">
+    	
+<div class="title">
+	  <h2>Welcome to men's basketball team of Fujen Information Management </h2>
+		</div>
+		<p> </p>
+	</div>
+	<div id="three-column" class="container">
+		
+</div>
+
+		
+	</div>
+	<div id="portfolio" class="container">
+		
+	</div>
+</div>
+<div id="footer">
+	<div class="container">
+		<div class="fbox1">
+		<span class="icon icon-map-marker"></span>
+			<span>1234 Fictional Road Suite #789
+			<br />Nashville TN 00000</span>
+		</div>
+		<div class="fbox1">
+			<span class="icon icon-phone"></span>
+			<span>
+				Telephone: +1 800 123 4657
+			</span>
+		</div>
+		<div class="fbox1">
+			<span class="icon icon-envelope"></span>
+			<span>businessname@business.com</span>
+		</div>
+	</div>
+</div>
+<div id="copyright">
+	<p>&copy; Untitled. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
+	<ul class="contact">
+		<li><a href="#" class="icon icon-twitter"><span>Twitter</span></a></li>
+		<li><a href="#" class="icon icon-facebook"><span></span></a></li>
+		<li><a href="#" class="icon icon-dribbble"><span>Pinterest</span></a></li>
+		<li><a href="#" class="icon icon-tumblr"><span>Google+</span></a></li>
+		<li><a href="#" class="icon icon-rss"><span>Pinterest</span></a></li>
+	</ul>
+</div>
+</body>
+</html>
